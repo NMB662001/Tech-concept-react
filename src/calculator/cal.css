@@ -1,0 +1,46 @@
+
+.main
+{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 100px;
+    padding: 10%;
+    box-shadow: 100px;
+    background-color: aqua;
+    background-image: url('c:\Users\lenovo\Documents\reg.jpg');
+background-size: cover;
+}
+.c1
+{
+    font-size: 5rem;
+    font-family: "times new roman";
+    text-align: center;
+    color: blue;
+}
+.ip
+{
+    font-size: 1rem;
+}
+.btn1{
+    height: 33px;
+    width: 30%;
+    padding: 5px;
+    align-items: center;
+    color: blueviolet;
+    background-color: black;
+    font-size: 1.5rem;
+}
+.butn
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.p1
+{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
